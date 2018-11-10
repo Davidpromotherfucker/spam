@@ -9,4 +9,4 @@ channel.send(`’ , ’,’,’,’,كسك ’,’,’,’,’,’`);
 }, 25)
 })
  
-client.login('NTA4NTgwNjk5OTM5NDA1ODI2.DsZF8Q.K3EWKUtVA_-Ub0AXRaaLD_liJJE');
+client.login('');
